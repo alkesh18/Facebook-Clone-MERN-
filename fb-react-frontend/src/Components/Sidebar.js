@@ -23,6 +23,6 @@ const Sidebar = () => {
             <SidebarRow Icon={ExpandMoreOutlined} title='More' />
         </div>
     )
-}
+} 
 
 export default Sidebar
